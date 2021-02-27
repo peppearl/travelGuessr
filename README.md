@@ -1,4 +1,24 @@
-# travelGuessr - Logique algorithmique
+# travelGuessr
+
+**EN**
+
+travelGuessr is a web simulator coded in Symfony.
+It let users find their next vacation, in France, Europe or in the world.
+
+Users answers questions about their favorite things.
+The simulator calculate the best destination thanks to the user's answers.
+Then, the user has a few information about the place.
+
+**FR**
+
+travelGuessr est un simulateur codé en Symfony.
+Cela permet aux utilisateurs de trouver la prochaine destination de leurs vacances, en France, en Europe ou dans le monde.
+
+Les utilisateurs répondent à des questions sur leurs centres d'intérêts.
+Le simulateur calcule alors la meilleure destination suivant les réponses de l'utilisateur.
+L'utilisateur peut alors avoir accès à quelques informations concernant la destination en question.
+
+## travelGuessr - Logique algorithmique
 
 Il y aurait un système de points.
 Chaque réponse vaut 1, 2, 3, etc. point(s).
